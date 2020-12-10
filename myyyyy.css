@@ -1,0 +1,25 @@
+        img{
+			float:right;
+		}
+		em{
+			font-weight:bold;
+		}
+		body{
+			 background-color: pink;
+		}
+		h1{color:green;
+		}
+		p{
+			text-align:center;
+			font-size:15px;
+			padding-top: 40px;
+			padding-bottom: 40px;
+		}
+		
+		h2{
+			text-decoration: underline;
+		}
+		g{
+			background-color: gray;
+		}
+		
